@@ -5,7 +5,7 @@
 
 ### For me, being a developer is an art, which is essentially based on the perception that everything around you has not yet reached its full potential and that it is up to you to make it reach.
 
-### So, nice to meet you!
+### So, nice to meet you, and let's code!
 
 <!--
 **trybrito/trybrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
