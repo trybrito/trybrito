@@ -1,4 +1,11 @@
-### Hi there 👋
+## 👋🏽 Hey, dev, welcome to my profile!
+
+
+### My name is Thiago Raniery Brito (also known as James) 🤝🏽 and I'm a front-end developer 👨🏽‍💻 who is passionate about technology and solving real world problems through lines of code 💪🏽.
+
+### For me, being a developer is an art, which is essentially based on the perception that everything around you has not yet reached its full potential and that it is up to you to make it reach.
+
+### So, nice to meet you!
 
 <!--
 **trybrito/trybrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
