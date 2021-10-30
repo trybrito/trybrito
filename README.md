@@ -26,9 +26,9 @@
 
 <p>Well, to finish this short summary about me, I would like to say that, for loving and being immersed in the world of technology, I'm always looking to learn, share and apply new technologies and concepts to my projects and my life as a developer; and I think it would be really amazing to have, by my side, people who share this same vision, therefore, if that also makes sense to you, feel free to get in touch with me for here or through the platforms below. See you around, dev!</p>
 
-<a href="https://www.linkedin.com/in/thiagoranierybrito/" rel="nofollow">
+<a href="https://www.linkedin.com/in/trybrito/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/JamesRyBrito" rel="nofollow">
+<a href="https://twitter.com/trybrito" rel="nofollow">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="mailto:thiagobritotrs@gmail.com" rel="nofollow">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
