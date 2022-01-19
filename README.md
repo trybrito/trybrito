@@ -26,7 +26,7 @@
 
 ### Contacts 🚀
 
-<p>Well, to finish this short summary about me, I would like to say that, for loving and being immersed in the world of technology, I'm always looking to learn, share and apply new technologies and concepts to my projects and my life as a developer; and I think it would be really amazing to have, by my side, people who share this same vision, therefore, if that also makes sense to you, feel free to get in touch with me for here or through the platforms below. See you around, Dev!</p>
+<p>Well, to finish this short summary about me, I would like to say that, for loving and being immersed in the world of technology, I'm always looking to learn, share and apply new technologies and concepts to my projects and my life as a developer; and I think it would be really amazing to have by my side people who share this same vision, therefore, if that also makes sense to you, feel free to get in touch with me for here or through the platforms below. See you around, Dev!</p>
 
 <a href="https://www.linkedin.com/in/trybrito/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
