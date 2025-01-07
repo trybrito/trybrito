@@ -3,6 +3,7 @@
 <br/>
 
 <p>👋🏽 Hey, Dev! My name is Thiago Brito 🤝🏽 and <strong>I'm a Full Stack Developer</strong> ⚒.</p>
+<br/>
 
 <p>I'm also <strong>passionate</strong> about <strong>technology</strong> and <strong>solving real world 🗺 problems</strong> through <strong>lines of code</strong> 🎯.</p> 
   
