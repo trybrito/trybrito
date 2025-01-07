@@ -1,7 +1,6 @@
 ## ✨ Welcome to my profile! ✨
-
 ### About me 👨🏽‍💻
-<hr/>
+<br/>
 
 <p>👋🏽 Hey, Dev! My name is Thiago Brito 🤝🏽 and <strong>I'm a Full Stack Developer</strong> ⚒.</p>
 
@@ -9,10 +8,10 @@
   
 <p>For me, <em>being a developer is an art, which is essentially based on the perception that everything around you has not yet reached its full potential and that it is up to you to make it reach.</em></p>
 
-<br/>
+<hr/>
 
 ### Technologies stack ⚒
-<hr/>
+<br/>
 
 <p>Since I feel that I have achieved a relatively solid foundation in website development over these last months (where I worked basically with pure HTML, CSS and JavaScript), I'm currently working with:</p>
 
@@ -42,11 +41,10 @@
 ![Tailwind-CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-
-<br/>
+<hr/>
 
 ### Contacts 🚀
-<hr/>
+<br/>
 
 <p>Well, to finish this short summary about me, I would like to say that, for loving and being immersed in the world of technology, I'm always looking to learn, share and apply new technologies and concepts to my projects and my life as a developer; and I think it would be really amazing to have people with the same interests by my side, therefore, if that also makes sense to you, feel free to get in touch with me for here or through the links below. See you around, Dev!</p>
 
