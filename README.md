@@ -5,7 +5,7 @@
 
 <p>👋🏽 Hey, Dev! My name is Thiago Brito 🤝🏽 and <strong>I'm a Full Stack Developer</strong> ⚒.</p>
 
-<p>I'm also <strong>passionate</strong> about <strong>technology</strong> and solving <strong>real world 🗺 problems</strong> through <strong>lines of code</strong> 🎯.</p> 
+<p>I'm also <strong>passionate</strong> about <strong>technology</strong> and <strong>solving real world 🗺 problems</strong> through <strong>lines of code</strong> 🎯.</p> 
   
 <p>For me, <em>being a developer is an art, which is essentially based on the perception that everything around you has not yet reached its full potential and that it is up to you to make it reach.</em></p>
 
